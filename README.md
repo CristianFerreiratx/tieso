@@ -49,6 +49,8 @@ El script `main.py` procesa los datos crudos enviados por el cable serie/USB:
 * **Portabilidad Autónoma:** Integración de batería LiPo de 3.7V con circuito de carga TP4056 para evitar el apagado automático por bajo consumo presente en los Powerbanks comerciales.
 
 ## 👥 Autores
-* Gesem Callapa
 * Cristian Ferreira
+* Gesem Callapa
+* Maria del Rosario Flores 
+* Matias Jurado
 * *Carrera de Ingeniería Mecatrónica - Biomédica*
